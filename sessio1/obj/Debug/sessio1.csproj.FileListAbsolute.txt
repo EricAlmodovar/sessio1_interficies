@@ -1,0 +1,15 @@
+C:\Users\erica\Desktop\Trabajos\DAM2_0488_Desenvolupament_d'interfícies\Visual_Studio\sessio1\sessio1\bin\Debug\sessio1.exe.config
+C:\Users\erica\Desktop\Trabajos\DAM2_0488_Desenvolupament_d'interfícies\Visual_Studio\sessio1\sessio1\bin\Debug\sessio1.exe
+C:\Users\erica\Desktop\Trabajos\DAM2_0488_Desenvolupament_d'interfícies\Visual_Studio\sessio1\sessio1\bin\Debug\sessio1.pdb
+C:\Users\erica\Desktop\Trabajos\DAM2_0488_Desenvolupament_d'interfícies\Visual_Studio\sessio1\sessio1\obj\Debug\sessio1.csproj.AssemblyReference.cache
+C:\Users\erica\Desktop\Trabajos\DAM2_0488_Desenvolupament_d'interfícies\Visual_Studio\sessio1\sessio1\obj\Debug\MainWindow.g.cs
+C:\Users\erica\Desktop\Trabajos\DAM2_0488_Desenvolupament_d'interfícies\Visual_Studio\sessio1\sessio1\obj\Debug\App.g.cs
+C:\Users\erica\Desktop\Trabajos\DAM2_0488_Desenvolupament_d'interfícies\Visual_Studio\sessio1\sessio1\obj\Debug\sessio1_MarkupCompile.cache
+C:\Users\erica\Desktop\Trabajos\DAM2_0488_Desenvolupament_d'interfícies\Visual_Studio\sessio1\sessio1\obj\Debug\sessio1_MarkupCompile.lref
+C:\Users\erica\Desktop\Trabajos\DAM2_0488_Desenvolupament_d'interfícies\Visual_Studio\sessio1\sessio1\obj\Debug\MainWindow.baml
+C:\Users\erica\Desktop\Trabajos\DAM2_0488_Desenvolupament_d'interfícies\Visual_Studio\sessio1\sessio1\obj\Debug\sessio1.g.resources
+C:\Users\erica\Desktop\Trabajos\DAM2_0488_Desenvolupament_d'interfícies\Visual_Studio\sessio1\sessio1\obj\Debug\sessio1.Properties.Resources.resources
+C:\Users\erica\Desktop\Trabajos\DAM2_0488_Desenvolupament_d'interfícies\Visual_Studio\sessio1\sessio1\obj\Debug\sessio1.csproj.GenerateResource.cache
+C:\Users\erica\Desktop\Trabajos\DAM2_0488_Desenvolupament_d'interfícies\Visual_Studio\sessio1\sessio1\obj\Debug\sessio1.csproj.CoreCompileInputs.cache
+C:\Users\erica\Desktop\Trabajos\DAM2_0488_Desenvolupament_d'interfícies\Visual_Studio\sessio1\sessio1\obj\Debug\sessio1.exe
+C:\Users\erica\Desktop\Trabajos\DAM2_0488_Desenvolupament_d'interfícies\Visual_Studio\sessio1\sessio1\obj\Debug\sessio1.pdb
